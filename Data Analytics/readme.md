@@ -5,6 +5,22 @@ Course for Automatic Control and Robotics, specialties:
 - Cyber-physical Systems,
 - Informatyka w Sterowaniu i Zarządzaniu
 
+During Covid-19 pandemic lectures are being presented on Youtube
+
+1. [One parameter models in Stan - part 1](https://youtu.be/2F7tBcncODQ)
+1. [One parameter models in Stan - part 2](https://youtu.be/fwpALbNSyDE)
+2. [Data Analytics - Multiparameter models - part 1](https://youtu.be/fZwWnSqhubo)
+2. [Data Analytics - Multiparameter models - part 2](https://youtu.be/pBqHb95Ajok)
+2. [Data Analytics - Multiparameter models - part 3](https://youtu.be/R8p4oFZHHeM)
+2. [Data Analytics - Multiparameter models - part 4](https://youtu.be/Giw-R1dRyek)
+3. [Data Analytics - Linear models - part 1](https://youtu.be/NHnarRFuiYs)
+3. [Data Analytics - Linear models - part 2](https://youtu.be/4gDQWqM3TLE)
+3. [Data Analytics - Linear models - part 3](https://youtu.be/E-17sqYM40Q)
+
+Questions regarding lectures are also on YouTube
+
+1. [Q&A episode 1](https://youtu.be/2beg3As7RBk)
+
 ## Laboratory class requirements
 
 It is recommended to use your own laptop computers.
@@ -22,6 +38,3 @@ Class work is realized in Python 3, in order to be able to work smoothly it is r
 For editing Stan code any text editor will be ok, syntax coloring is offered among the others by [Atom](https://atom.io).
 
 It is strongly recommended to have a GitHub account and store your coursework in a repository (public or private).
-
-
-
